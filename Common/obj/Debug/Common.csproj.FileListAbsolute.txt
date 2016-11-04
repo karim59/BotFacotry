@@ -1,0 +1,15 @@
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Common\bin\Debug\Common.dll
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Common\bin\Debug\Common.pdb
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Common\obj\Debug\Common.dll
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Common\obj\Debug\Common.pdb
+C:\Users\C17 Developer\Source\Repos\BotFactory\Common\bin\Debug\Common.dll
+C:\Users\C17 Developer\Source\Repos\BotFactory\Common\bin\Debug\Common.pdb
+C:\Users\C17 Developer\Source\Repos\BotFactory\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\C17 Developer\Source\Repos\BotFactory\Common\obj\Debug\Common.dll
+C:\Users\C17 Developer\Source\Repos\BotFactory\Common\obj\Debug\Common.pdb
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Common\bin\Debug\Common.dll
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Common\bin\Debug\Common.pdb
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Common\obj\Debug\Common.dll
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Common\obj\Debug\Common.pdb

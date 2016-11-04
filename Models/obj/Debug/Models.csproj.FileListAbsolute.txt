@@ -1,0 +1,28 @@
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\bin\Debug\Models.dll
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\bin\Debug\Models.pdb
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\bin\Debug\Common.dll
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\bin\Debug\Common.pdb
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\obj\Debug\Models.dll
+c:\users\c17 developer\documents\visual studio 2015\Projects\BotFactory\Models\obj\Debug\Models.pdb
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\bin\Debug\Models.dll
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\bin\Debug\Models.pdb
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\bin\Debug\Common.dll
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\bin\Debug\Common.pdb
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\obj\Debug\Models.dll
+C:\Users\C17 Developer\Source\Repos\BotFactory\Models\obj\Debug\Models.pdb
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\obj\Debug\Models.dll
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\obj\Debug\Models.pdb
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\bin\Debug\Models.dll
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\bin\Debug\Models.pdb
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\bin\Debug\Common.dll
+C:\Users\karim\Downloads\BotFactory-master (1)\BotFactory-master\Models\bin\Debug\Common.pdb
+D:\Projet Karim\BotFactory\Models\bin\Debug\Models.dll
+D:\Projet Karim\BotFactory\Models\bin\Debug\Models.pdb
+D:\Projet Karim\BotFactory\Models\bin\Debug\Common.dll
+D:\Projet Karim\BotFactory\Models\bin\Debug\Common.pdb
+D:\Projet Karim\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projet Karim\BotFactory\Models\obj\Debug\Models.dll
+D:\Projet Karim\BotFactory\Models\obj\Debug\Models.pdb
